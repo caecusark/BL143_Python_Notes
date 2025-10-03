@@ -28,4 +28,4 @@ Amaç: Python’un temel kavramlarını öğrenmek, tekrar etmek ve başkaları 
 1. Repoyu klonla:
    ```bash
    git clone https://github.com/caecusark/BL143_Python_Notes.git
-   cd python-notlar
+   cd BL143_Python_Notes
