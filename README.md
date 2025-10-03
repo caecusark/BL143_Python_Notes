@@ -8,11 +8,8 @@ Amaç: Python’un temel kavramlarını öğrenmek, tekrar etmek ve başkaları 
 ## 📂 İçerik Tablosu
 
 | Dosya Adı            | Konu / İçerik Açıklaması |
-|-----------------------|--------------------------|
-| `hello_world.ipynb`   | İlk Python çıktısı, temel print kullanımı |
-| `variables.ipynb`     | Değişken tanımlama, isimlendirme kuralları |
-| `int.ipynb`           | Tam sayılar (integer) ile işlemler |
-| `float.ipynb`         | Ondalık sayılar (float) ile işlemler |
+|-----------------------|-------------------------------------|
+| `variables.ipynb`     | Değişken tanımlama, isimlendirme kuralları, Tam sayılar (integer) ile işlemler, Ondalık sayılar (float) ile işlemler |
 | `strings.ipynb`       | String veri tipi ve metin işlemleri |
 | `booleans.ipynb`      | True / False değerleri ve mantıksal işlemler |
 | `lists.ipynb`         | Listeler, indexleme ve liste metotları |
